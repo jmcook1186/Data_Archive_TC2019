@@ -33,4 +33,4 @@ Outputs from the van As (2012) runoff model
 Pickled classifiers used to map the ice surface in our remote sensing analyses using our IceSurfClassifiers code.
 
 # Permissions
-To use this data please cite Cook et al. (2019) "Algae accelerate the melting of the Greenland Ice Sheet" and link to this doi.
+To use this data please cite Cook et al. (2019) "Algae accelerate the melting of the Greenland Ice Sheet" and link to this doi. Queries can be directed to joe.cook@sheffield.ac.uk
